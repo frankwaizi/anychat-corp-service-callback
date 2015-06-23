@@ -1,4 +1,4 @@
-wechat corp service callback
+anychat corp service callback
 =======================================
 
 微信公共平台企业号版(第三方企业套件)SDK－回调接口
@@ -11,7 +11,7 @@ wechat corp service callback
 ## 安装方法
 
 ```sh
-$ npm install wechat-corp-service-callback
+$ npm install anychat-corp-service-callback
 ```
 
 ## 使用方法
@@ -27,7 +27,7 @@ $ npm install wechat-corp-service-callback
 其中的token，encodingAESKey，suite_id可以在套件的信息配置界面获取。
 
 ```js
-var wechat_cs = require('wechat-corp-service-callback');
+var wechat_cs = require('anychat-corp-service-callback');
 
 var app_suite = function(req, res, next) {
     var _config = {

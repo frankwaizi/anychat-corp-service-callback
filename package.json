@@ -1,5 +1,5 @@
 {
-  "name": "wechat-corp-service-callback",
+  "name": "anychat-corp-service-callback",
   "version": "0.0.1",
   "description": "A callback interface for wechat 3rd corp service.",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/node-webot/wechat-corp-service-callback.git"
+    "url": "https://github.com/frankwaizi/anychat-corp-service-callback.git"
   },
-  "author": "NickMa",
+  "author": "FrankFan",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/node-webot/wechat-corp-service-callback/issues"
+    "url": "https://github.com/frankwaizi/anychat-corp-service-callback/issues"
   },
-  "homepage": "https://github.com/node-webot/wechat-corp-service-callback",
+  "homepage": "https://github.com/frankwaizi/anychat-corp-service-callback",
   "dependencies": {
     "xml2js": "0.4.4",
     "ejs": ">=1.0.0",
