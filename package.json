@@ -1,6 +1,6 @@
 {
   "name": "anychat-corp-service-callback",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A callback interface for wechat 3rd corp service.",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/frankwaizi/anychat-corp-service-callback.git"
   },
-  "author": "FrankFan",
+  "author": "Frank Fan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/frankwaizi/anychat-corp-service-callback/issues"
